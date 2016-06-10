@@ -1,8 +1,12 @@
 # Spider-WebDev-Task-2
 Wed developement Environment used : WAMPSERVER
+
 Database Management Software : phpMyAdmin
+
 Database : MySQL
+
 [Click Here](http://www.wampserver.com/en/#download-wrapper) for downloading latest version of WAMPSERVER.
+
 MySQLi is used to interface with MySQL through PHP
 ***
 #####How to run the php scripts
