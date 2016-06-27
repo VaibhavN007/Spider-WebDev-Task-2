@@ -1,5 +1,5 @@
 # Spider-WebDev-Task-2
-Wed developement Environment used : WAMPSERVER
+Web developement Environment used : WAMPSERVER
 
 Database Management Software : phpMyAdmin
 
