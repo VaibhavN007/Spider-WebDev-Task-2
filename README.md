@@ -9,7 +9,7 @@ Database : MySQL
 
 MySQLi is used to interface with MySQL through PHP
 ***
-#####How to run the php scripts
+##### How to run the php scripts
 1. Download all the files in the repository.
 2. Copy them to C:\wamp\www folder.
 3. Run WAMPSERVER and click on wampserver icon in lower right hand corner of your desktop (taskbar) and select start all services.
